@@ -1,4 +1,4 @@
-# Lottery-Solidity
+### Lottery Solidity
 
 Contract code behind Lottery React.
 
